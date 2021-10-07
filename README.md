@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maulana Jauhari 
-- 👀 I’m interested in Fullstack Developer
-- 🌱 I’m currently learning anything that relate to Fullstack Developer
+- 👀 I’m interested in everything 
+- 🌱 I’m currently working as Fullstack Developer
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me on social media 
 
