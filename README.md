@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maulana Jauhari 
-- 👀 I’m interested in everything 
+- 👀 I’m interested in learning programming language and foreign language
 - 🌱 I’m currently working as Fullstack Developer
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me on social media 
