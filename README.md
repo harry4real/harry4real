@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maulana Jauhari 
-- 👀 I’m interested in learning programming language and foreign language
-- 🌱 I’m currently working as Fullstack Developer
+- 👀 I’m interested in software and web development
+- 🌱 I’m currently studying fullstack development
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me on social media 
 
